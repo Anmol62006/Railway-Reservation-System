@@ -31,7 +31,6 @@ Railway Reservation System is a Console-Based Core Java Project developed using 
 
 ## Developed By
 - Anmol Singh
-- Aryan Verma
 
 ## Guided By
 Mr. Raghav Raj Chauhan
